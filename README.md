@@ -11,7 +11,7 @@
   <h2 align="center">Ruby Capstone Project from Microverse: <strong></Ruby>A powerful Slack Bot</strong></h2>
   <p align="center">
   <br />
-    <a href="https://github.com/Samkiroko/capstone-slack-bot/tree/features"> Explore the repo</a> - <a href="https://github.com/leonmezu1/Bot-Capstone/issues">Report Bugs »</a>
+    <a href="https://github.com/Samkiroko/capstone-slack-bot/tree/features"> Explore the repo</a> - <a href="https://github.com/Samkiroko/capstone-slack-bot/issues">Report Bugs »</a>
   <br />
   </p>
 </p>
@@ -159,3 +159,12 @@ Project Link: [https://github.com/Samkiroko/capstone-slack-bot](https://github.c
 - [Wolfram Alpha](https://www.wolframalpha.com/)
 
 Samuel Kiroko N. - Microverse OOP Project.
+
+[contributors-shield]: https://img.shields.io/github/contributors/Samkiroko/capstone-slack-bot.svg?style=flat-square
+[contributors-url]: https://github.com/Samkiroko/capstone-slack-bot/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Samkiroko/capstone-slack-bot.svg?style=flat-square
+[forks-url]: https://github.com/Samkiroko/capstone-slack-bot/network/members
+[stars-shield]: https://img.shields.io/github/stars/Samkiroko/capstone-slack-bot.svg?style=flat-square
+[stars-url]: https://github.com/Samkiroko/capstone-slack-bot/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Samkiroko/capstone-slack-bot.svg?style=flat-square
+[issues-url]: https://github.com/Samkiroko/capstone-slack-bot/issues
