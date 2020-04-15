@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require_relative 'config/environment.rb'
 require_relative 'lib/bot/genie_bot.rb'
 Dotenv.load

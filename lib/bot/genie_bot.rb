@@ -1,9 +1,7 @@
-# frozen_string_literal: true
-
 module Geniebot
   # Bot Documentation
   class Bot < SlackRubyBot::Bot
-    help do # rubocop: disable Metrics/BlockLength
+    help do
       title 'GenieBot'
       desc 'This Bot uses the powerful engine of wolfram API to solve almost any question'
 

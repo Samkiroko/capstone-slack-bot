@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require 'slack-ruby-bot/rspec'
 require 'vcr'
 require_relative '../lib/bot/genie_bot.rb'
