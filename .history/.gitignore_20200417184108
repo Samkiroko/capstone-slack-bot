@@ -1,6 +1,0 @@
-# ignore important API tokens to avoid security flaws
-.env
-ruby-version
-Ds_STORE
-/history
-Gemfile.lock
