@@ -1,7 +1,8 @@
 # ignore important API tokens to avoid security flaws
 .env
 ruby-version
-Ds_STORE
+.DS_Store
 /history
 Gemfile.lock
-.env
+Gemfile.lock
+.history
