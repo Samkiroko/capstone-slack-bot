@@ -57,10 +57,4 @@ RSpec.describe 'GenieBot' do
       message: "#{SlackRubyBot.config.user} nasa_last_new"
     ).to respond_with_slack_messages(%w[])
   end
-
-  it 'Responds a wolfram query', :vcr do
-    expect(
-      message: '{SlackRubyBot.config.user} wolfram'
-    ).to respond_with_slack_messages(%w[])
-  end
 end
